@@ -1,7 +1,7 @@
 nicolasferreira007/nicolasferreira007
 
 
-Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é nicolas ferreira silva  desenvolvedor, estudante  * 🌍 Estou baseado em estudar ,trabalhar, aprender e buscar um bom futuro para mim. * ✉️ Você pode entrar em contato comigo em [nicolas.silva.fumcad@despertar.org.br](mailto:nicolas.silva.fumcad@despertar.org.br) * 🧠 Estou aprendendo javaScript, HTML5, MySQL, CSS. * ⚡ um menino ágil, sério, e um pouco brincalhão
+Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é nicolas ferreira silva  desenvolvedor, estudante  * 🌍 Estou baseado em estudar ,trabalhar, aprender e buscar um bom futuro para mim. * ✉️ Você pode entrar em contato comigo em [nicolas.silva.fumcad@despertar.org.br](mailto:nicolas.silva.fumcad@despertar.org.br) * 🧠 Estou aprendendo javaScript, HTML5, MySQL, CSS. * ⚡ um menino ágil, sério, e um pouco brincalhão.
 
 ### Habilidades
 
